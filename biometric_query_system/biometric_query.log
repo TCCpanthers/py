@@ -1,0 +1,41 @@
+2025-09-11 12:43:38,512 - database - INFO - Database manager initialized
+2025-09-11 12:43:47,043 - database - INFO - Database manager initialized
+2025-09-11 12:43:47,056 - __main__ - INFO - Biometric system manager initialized
+2025-09-11 12:43:51,248 - database - INFO - Database manager initialized
+2025-09-11 12:43:51,253 - __main__ - INFO - Biometric system manager initialized
+2025-09-11 12:43:51,254 - database - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:43:51,254 - database - ERROR - Database query error: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:43:51,254 - biometric_service - ERROR - Error initializing unit: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:43:51,254 - __main__ - ERROR - Error in simulation mode: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:44:40,510 - database - INFO - Database manager initialized
+2025-09-11 12:44:40,511 - database - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:44:40,511 - database - ERROR - Database query error: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-09-11 12:44:40,511 - biometric_service - ERROR - Error initializing unit: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
